@@ -1,3 +1,3 @@
-基于qiankun搭建的前端微服务demo
+基于qiankun搭建的微前端demo
 
 qiankun牛逼!!!
